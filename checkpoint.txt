@@ -1,0 +1,18 @@
+INSERT INTO custommer (customer-id customer-name customer-tel) values (co1 ali 71321
+
+9)
+
+INSERT INTO custommer (customer-id customer-name customer-tel) values (co2 asma 77345823)
+
+
+inser into product (prd-id prd-name category price) values ( po1 samsung galaxys20 smartphone 3299)
+
+
+
+inser into product (prd-id prd-name category price) values ( p02   asus notbook  pc 4599)
+
+
+
+inser into orders (customerid prd-id orderdate) value ( c02 p02 null )
+
+inser into orders (customerid prd-id orderdate) value( co2 po1 28/05/2020)
